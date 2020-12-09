@@ -24,7 +24,7 @@ Please note that:
 
 2) You should put the test model in {THE-TEST-MODEL} folder.
 
-3) You can get the same ADD-GCN results with [this model]()
+3) You can get the same ADD-GCN results with [this model](https://pan.baidu.com/s/17Y1knACAo5U6XbV75GUI8w). The password is ``4ebj``.
 
 Model | Test size | mAP 
 --- |:---:|:---:
