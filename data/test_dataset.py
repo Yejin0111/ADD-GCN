@@ -43,9 +43,9 @@ train_loader = DataLoader(train_dataset, batch_size=4, shuffle=True, num_workers
 val_loader = DataLoader(val_dataset, batch_size=4, shuffle=False, num_workers=4, 
                             pin_memory=True, collate_fn=collate_fn)
 
-for data in train_loader:
-    pdb.set_trace()
+#for data in train_loader:
+    #pdb.set_trace()
 
 
 
-pdb.set_trace()
+#pdb.set_trace()
